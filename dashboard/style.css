@@ -1,0 +1,33 @@
+html {
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: courier;
+  background-color: red;
+}
+
+body {
+    background-image: url('http://vignette2.wikia.nocookie.net/fantasysports/images/d/dc/Hammer_and_sickle.png/revision/latest?cb=20070109194904');
+}
+
+h1, h2, #news {
+  font-weight: 500;
+}
+
+#news {
+  font-size: 2em;
+  line-height: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 2px solid #ffffff;
+}
+
+a:hover {
+  font-style: oblique;
+}
+a {
+    background-color: rgba(255,193,7,.8);
+}
